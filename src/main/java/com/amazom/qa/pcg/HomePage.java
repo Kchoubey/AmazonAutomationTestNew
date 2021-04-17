@@ -8,6 +8,7 @@ import com.amazon.qa.base.TestBase;
 
 public class HomePage extends TestBase{
 	//changes karishma choubey
+	//changes two 
 	//page factory we need to define first or we can say OR
 	//logo check
 	@FindBy(id="nav-logo-sprites")
