@@ -10,6 +10,7 @@ public class HomePage extends TestBase{
 	//changes karishma choubey
 	//changes two 
 	//change three 
+	
 	//page factory we need to define first or we can say OR
 	//logo check
 	@FindBy(id="nav-logo-sprites")
@@ -18,6 +19,7 @@ public class HomePage extends TestBase{
 	
 	@FindBy(id="nav-link-accountList")
 	WebElement SigninAccount;
+	
 	
 	
 	@FindBy(name="email")
